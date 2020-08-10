@@ -1,4 +1,6 @@
-# Funcionalidades
+# Proffy Backend
+
+API desenvolvida para o projeto Proffy, na trilha Omnistack da NLW #2.
 
 ## Conexões
 
